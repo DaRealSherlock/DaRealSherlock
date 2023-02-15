@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaRealSherlock
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in python, C++ and JS
+- 🌱 I’m currently learning python, C++ and JS
+- 💞️ I’m looking to collaborate on nothing :)
 - 📫 How to reach me (JUST DON'T)
 
 <!---
