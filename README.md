@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaRealSherlock
-- 👀 I’m interested in python, C++ and JS
-- 🌱 I’m currently learning python, C++ and JS
+- 👀 I’m interested in Python, C++ and JS (And War Thunder)
+- 🌱 I’m currently learning Python, C++ and JS
 - 💞️ I’m looking to collaborate on nothing :)
 - 📫 How to reach me: Email
 
